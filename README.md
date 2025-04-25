@@ -19,7 +19,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 # 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,sass,tailwind,materialui,react,nextjs,threejs,python,java,c,cs,aiscript,mysql,firebase,azure,cloudflare,nginx,linux,ubuntu,redhat,windows,apple,git,github,npm,anaconda,babel,vite,vitest,postman,md,vscode,visualstudio,eclipse,atom,obsidian,sklearn,figma,ps,arduino,twitter,instagram,discord,fediverse,activitypub,mastodon,misskey,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=html,css,js,ts,sass,tailwind,materialui,react,nextjs,threejs,python,java,c,cs,aiscript,mysql,firebase,azure,cloudflare,nginx,linux,ubuntu,redhat,windows,apple,git,github,npm,anaconda,babel,vite,vitest,postman,md,vscode,visualstudio,eclipse,atom,obsidian,sklearn,figma,ps,arduino,twitter,instagram,discord,fediverse,activitypub,mastodon,misskey,notion" />
 <br>
 
 
