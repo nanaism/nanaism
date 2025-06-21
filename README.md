@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [@oga](https://x.com/oga_aiichiro)
+- 📫 How to reach me: [@oga_aiichiro](https://x.com/oga_aiichiro)
 <br>
 
 
