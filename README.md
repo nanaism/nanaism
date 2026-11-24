@@ -12,6 +12,7 @@
 - 🧑‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning go!
 - 📫 How to reach me: [@oga_aiichiro](https://x.com/oga_aiichiro)
+- 💖 yomiyasuの開発と検証にかかるAIの利用料などに充てるため[GitHub Sponsors](https://github.com/sponsors/nanaism)で支援を受け付けています。
 <br>
 
 
